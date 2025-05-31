@@ -34,8 +34,7 @@ Example result:
 ```bash
 pip install -r requirements.txt
 python factory_scheduler.py
-
-
+```
 ## 📬 Contact
 Made by [Abhinav Chitturi](https://www.linkedin.com/in/abhinavchitturi) – feel free to connect!
 
