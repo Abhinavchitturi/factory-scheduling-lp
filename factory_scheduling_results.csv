@@ -1,0 +1,6 @@
+Job,Machine,Processing Time,Assigned
+Job5,Machine1,2,1.0
+Job4,Machine2,4,1.0
+Job2,Machine2,1,1.0
+Job1,Machine1,2,1.0
+Job3,Machine2,2,1.0
